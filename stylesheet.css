@@ -1,0 +1,63 @@
+body {
+
+  font-family: Verdana, Geneva, sans-serif
+
+}
+
+.salary{
+
+  text-align: left;
+  width: 400px;
+  position: fixed;
+  top: 0;
+  right: 0;
+
+
+}
+
+
+.employee{
+  line-height: 50%;
+width: 300px;
+background-color: #eeeeee;
+padding-top: 5px;
+padding-left: 5px;
+border-radius: 5px;
+margin-bottom: 10px;
+margin-top: 10px;
+
+
+
+}
+.employee p{
+
+
+
+}
+.employees {
+  display: block;
+
+}
+.employees fieldset{
+  display: block;
+  width: 400px;
+}
+.employees .submit{
+  width: 120px;
+}
+.employees input{
+  width: 200px;
+  margin-left: 10px;
+}
+
+.employees label{
+  color: grey;
+  text-align: right;
+  width: 150px;
+  float: left;
+}
+.showSal{
+
+  float: left;
+  padding: 5px;
+}

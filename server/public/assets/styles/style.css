@@ -1,0 +1,18 @@
+.emp-block{
+
+    border: 1px solid black;
+    margin: 5px;
+    border-radius: 5px;
+
+
+}
+
+.emp-active{
+    background-color:  #ecffe6;
+
+}
+
+.emp-inactive{
+    background-color:  #ffebe6;
+
+}
